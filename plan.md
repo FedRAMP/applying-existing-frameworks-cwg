@@ -2,7 +2,7 @@
 
 ## Table of Contents 
 - [Background](#background)
-- [REPLACE WITH WORKING GROUP NAME](#wg-details).  
+- [Applying Existing Frameworks](#wg-details).  
 - [Participation](#participation)
 - [Key Community Working Groups Activities](#key-community-working-groups-activities)
 - [Interaction with FedRAMP](#interaction-with-fedramp)
@@ -18,37 +18,43 @@ Every FedRAMP CWG has the following primary objectives:
 1. Ensure FedRAMP has direct insight into community activities, goals, achievements, best practices, etc. in specific areas to inform creation of standards and policies prior to their formal development.
 1. Ensure that FedRAMP stakeholders have equal public access to information from FedRAMP and an open forum and semi-structured opportunities to work towards shared goals in different and innovative ways.
 
-## REPLACE WITH WORKING GROUP NAME {#wg-details}
+## Applying Existing Frameworks {#wg-details}
 
-REPLACE WITH WORKING GROUP SCOPE DETAILS
+In a world where FedRAMP is relying on automated attestations to the greatest extent possible, simplifying the documentation and management requirements will require us to think innovatively about how we leverage existing commercial frameworks. To the greatest extent possible, we want FedRAMP to rely on existing best practices and commercial security frameworks.
+
+Your focus in this working group will be to help us drive toward a world where agencies can easily understand how a company’s existing commercial security frameworks can be used to make risk-based decisions in lieu of creating new materials for FedRAMP. By examining leading industry security standards, the group will investigate opportunities to leverage commercial frameworks that can address some or all of the federal cloud security requirements without creating redundant compliance processes. The evaluation will focus on identifying frameworks with proven effectiveness, assessing their potential for direct application through a rigorous analysis of scalability, cloud environment adaptability, implementation simplicity, vendor-neutral design, and economic efficiency of adoption. It will also seek to understand any gaps between these frameworks and FedRAMP requirements so that any additional tasks are focused only on those requirements not already met. 
+
+The ultimate goal is to streamline the authorization pathway by implementing commercial security approaches and standards in lieu of government-unique compliance mechanisms.
 
 ## Participation
 
 FedRAMP CWGs are open to the public and all members of the community may participate or follow along. 
 
-The [REPLACE WITH WORKING GROUP NAME] CWG is especially relevant for members of the following communities:
+The Applying Existing Frameworks CWG is especially relevant for members of the following communities:
 
-- Security & Compliance managers at cloud service providers
-- Etc. (be specificish)
+- Security and compliance managers at cloud service providers  
+- Commercial and community driven security standard organizations
+- Agency risk and authorization personnel
+- Third party assessment organizations and auditors
+- Cybersecurity experts
+- Industry groups
 
 ## Key Community Working Groups Activities
 FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG. 
-[REPLACE WITH: Identify and list specific activities to be accomplished. This includes such activities as developing specific software or methodologies and the location of any public GitHub repositories.]
-- Activity One
-  - Details
-- Activity Two
-  - Details
-- Activity Three
-  - Details
+
+- Identify commercial standards that have a risk posture appropriate for federal use
+  - Map commonalities and identify differences between the frameworks
+- Identify gaps between commercial frameworks and current FISMA requirements
+  - Use cases for various commercial frameworks
+- Investigate automation potential in framework application
+  - Which framework(s) have existing automation support or offer the most appropriate automation potential?
 
     
 ## Interaction with FedRAMP
-The [CWG Name] CWG will be managed by the following member of the FedRAMP PMO:
-- Name, GitHub Username
+The Applying Existing Frameworks CWG will be managed by the following member of the FedRAMP PMO:
+- Elisha (Emu) Crow, `emu-gov`
 In addition, the following members of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:
-- Name, GitHub Username
-- Name, GitHub Username
-- Name, GitHub Username
+- Michelle White, `audreamichellewhite`
 
 All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Manager and FedRAMP advocates.
 Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review formal draft guidance or policies in place of public comment, or direct work on behalf of the government.
@@ -56,8 +62,8 @@ FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from
 
 ## Transparency and Communication
 This working group will primarily operate on GitHub in the following repository and Discussion forum:
-- [REPLACE WITH WORKING GROUP NAME Repo](/)
-- [REPLACE WITH WORKING GROUP NAME Group Discussion](../../discussions)
+- [Applying Existing Frameworks Repo](/)
+- [Applying Existing Frameworks Group Discussion](../../discussions)
 
 The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
 - Zoom signup link
