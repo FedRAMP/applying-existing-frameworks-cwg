@@ -2,7 +2,7 @@
 
 ## Table of Contents 
 - [Background](#background)
-- [Applying Existing Frameworks](#wg-details).  
+- [Applying Existing Frameworks](#appling-existing-frameworks)  
 - [Participation](#participation)
 - [Key Community Working Groups Activities](#key-community-working-groups-activities)
 - [Interaction with FedRAMP](#interaction-with-fedramp)
@@ -18,7 +18,7 @@ Every FedRAMP CWG has the following primary objectives:
 1. Ensure FedRAMP has direct insight into community activities, goals, achievements, best practices, etc. in specific areas to inform creation of standards and policies prior to their formal development.
 1. Ensure that FedRAMP stakeholders have equal public access to information from FedRAMP and an open forum and semi-structured opportunities to work towards shared goals in different and innovative ways.
 
-## Applying Existing Frameworks {#wg-details}
+## Applying Existing Frameworks
 
 In a world where FedRAMP is relying on automated attestations to the greatest extent possible, simplifying the documentation and management requirements will require us to think innovatively about how we leverage existing commercial frameworks. To the greatest extent possible, we want FedRAMP to rely on existing best practices and commercial security frameworks.
 
@@ -53,8 +53,9 @@ FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP
 ## Interaction with FedRAMP
 The Applying Existing Frameworks CWG will be managed by the following member of the FedRAMP PMO:
 - Elisha (Emu) Crow, `emu-gov`
-In addition, the following members of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:
-- Michelle White, `audreamichellewhite`
+
+In addition, the following members of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:  
+- Michelle White, `audreamichellewhite`  
 
 All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Manager and FedRAMP advocates.
 Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review formal draft guidance or policies in place of public comment, or direct work on behalf of the government.
@@ -68,7 +69,8 @@ This working group will primarily operate on GitHub in the following repository 
 The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
 - Zoom signup link
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:
-- YouTube Link, #hashtag / playlist / or whatever
+- *Placeholder for link*
+
 Every two weeks, the Community Manager will post a Summary of Activity to the CWG that includes the following:
 - Recap of questions asked by FedRAMP
 - Recap of major topics of discussion
