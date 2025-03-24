@@ -3,4 +3,4 @@ Welcome to the Applying Existing Frameworks Community Working Group! Please refe
 
 The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A: The first meeting will be held on **Tuesday, April 8th, from 1-2 PM ET via Zoom**.
 
-[REGISTER HERE](https://gsa.zoomgov.com/meeting/register/oBzJ0RpNTj2kKJHGo1H8ug)
+[REGISTER HERE](https://gsa.zoomgov.com/meeting/register/t7WXSUz2SqK7Pdn8KXH8jQ#/registration)
