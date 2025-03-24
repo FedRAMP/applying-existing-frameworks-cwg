@@ -1,4 +1,4 @@
-# Community Working Group Plan
+# Applying Existing Frameworks Working Group Plan
 
 ## Table of Contents 
 - [Background](#background)
@@ -67,9 +67,9 @@ This working group will primarily operate on GitHub in the following repository 
 - [Applying Existing Frameworks Group Discussion](../../discussions)
 
 The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
-- Zoom signup link
+- [Zoom signup link](https://gsa.zoomgov.com/meeting/register/oBzJ0RpNTj2kKJHGo1H8ug#/registration)
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:
-- *Placeholder for link*
+- [FedRAMP Youtube Channel](https://www.youtube.com/@FedRAMP)
 
 Every two weeks, the Community Manager will post a Summary of Activity to the CWG that includes the following:
 - Recap of questions asked by FedRAMP
