@@ -51,13 +51,13 @@ FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP
 
     
 ## Interaction with FedRAMP
-The Applying Existing Frameworks CWG will be managed by the following member of the FedRAMP PMO:
+The Applying Existing Frameworks CWG will be mediated by the following member of the FedRAMP PMO:
 - Elisha (Emu) Crow, `emu-gov`
 
 In addition, the following members of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:  
 - Michelle White, `audreamichellewhite`  
 
-All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Manager and FedRAMP advocates.
+All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Mediator and FedRAMP advocates.
 Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review formal draft guidance or policies in place of public comment, or direct work on behalf of the government.
 FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from government representatives participating in the CWG: https://fedramp.gov/disclaimer
 
@@ -66,13 +66,13 @@ This working group will primarily operate on GitHub in the following repository 
 - [Applying Existing Frameworks Repo](/)
 - [Applying Existing Frameworks Group Discussion](../../discussions)
 
-The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
+The community mediator will host a weekly hour-long town hall for mediated discussion, updates, and Q&A:
 - [Zoom signup link](https://gsa.zoomgov.com/meeting/register/t7WXSUz2SqK7Pdn8KXH8jQ#/registration)  
 
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:  
 - [FedRAMP Youtube Channel](https://www.youtube.com/@FedRAMP)
 
-Every two weeks, the Community Manager will post a Summary of Activity to the CWG that includes the following:
+Every two weeks, the Community Mediator will post a Summary of Activity to the CWG that includes the following:
 - Recap of questions asked by FedRAMP
 - Recap of major topics of discussion
 - Recap of major topics from the weekly town halls
