@@ -2,7 +2,7 @@
 
 ## Table of Contents 
 - [Background](#background)
-- [Applying Existing Frameworks](#appling-existing-frameworks)  
+- [Applying Existing Frameworks](#applying-existing-frameworks)  
 - [Participation](#participation)
 - [Key Community Working Groups Activities](#key-community-working-groups-activities)
 - [Interaction with FedRAMP](#interaction-with-fedramp)
