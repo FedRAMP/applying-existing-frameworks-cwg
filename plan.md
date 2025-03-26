@@ -52,10 +52,10 @@ FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP
     
 ## Interaction with FedRAMP
 The Applying Existing Frameworks CWG will be mediated by the following member of the FedRAMP PMO:
-- Elisha (Emu) Crow, `@emu-gov`
+- Elisha (Emu) Crow, [@emu-gov](https://github.com/emu-gov)  
 
 In addition, the following members of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:  
-- Michelle White, `@audreamichellewhite`  
+- Michelle White, [@audreamichellewhite](https://github.com/audreamichellewhite)  
 
 All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Mediator and FedRAMP advocates. Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not manage or control the CWGs activities, nor will we use working groups to seek consensus advice, review formal draft guidance or policies in place of public comment, or direct work on behalf of the government. FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from government representatives participating in the CWG: [https://fedramp.gov/disclaimer](https://fedramp.gov/disclaimer)
 
