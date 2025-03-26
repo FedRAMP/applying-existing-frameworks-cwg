@@ -11,7 +11,7 @@
 
 ## Background
 
-FedRAMP Community Working Groups (CWGs) are public, informal and collaborative groups that facilitate industry-led knowledge sharing on commercial and government best practices for information security of cloud services. FedRAMP will rely on the direct engagement provided by CWGs to ensure a smooth transition towards its updated mission of setting standards and policies that enable private innovation to provide solutions to information security problems.
+FedRAMP Community Working Groups (CWGs) are public, informal and collaborative groups that facilitate industry-led knowledge sharing on best practices for information security of cloud services. FedRAMP will rely on the direct engagement provided by CWGs to ensure a smooth transition towards its updated mission of setting standards and policies that enable private innovation to provide solutions to information security problems.
 
 Every FedRAMP CWG has the following primary objectives:
 
@@ -22,7 +22,7 @@ Every FedRAMP CWG has the following primary objectives:
 
 In a world where FedRAMP is relying on automated attestations to the greatest extent possible, simplifying the documentation and management requirements will require us to think innovatively about how we leverage existing commercial frameworks. To the greatest extent possible, we want FedRAMP to rely on existing best practices and commercial security frameworks.
 
-Your focus in this working group will be to help us drive toward a world where agencies can easily understand how a company’s existing commercial security frameworks can be used to make risk-based decisions in lieu of creating new materials for FedRAMP. By examining leading industry security standards, the group will investigate opportunities to leverage commercial frameworks that can address some or all of the federal cloud security requirements without creating redundant compliance processes. The evaluation will focus on identifying frameworks with proven effectiveness, assessing their potential for direct application through a rigorous analysis of scalability, cloud environment adaptability, implementation simplicity, vendor-neutral design, and economic efficiency of adoption. It will also seek to understand any gaps between these frameworks and FedRAMP requirements so that any additional tasks are focused only on those requirements not already met. 
+Your focus in this working group will be to help us drive toward a world where agencies can easily understand how a company’s existing commercial security frameworks can be used to make risk-based decisions in lieu of creating new materials for FedRAMP. By examining leading industry security standards, the group will help cultivate knowledge of opportunities to leverage commercial frameworks that can address some or all of the federal cloud security requirements without creating redundant compliance processes. The group will help identify frameworks with proven effectiveness, assessing their potential for direct application through a rigorous analysis of scalability, cloud environment adaptability, implementation simplicity, vendor-neutral design, and economic efficiency of adoption. It will also seek to understand any gaps between these frameworks and FedRAMP requirements so that any additional tasks are focused only on those requirements not already met. 
 
 The ultimate goal is to streamline the authorization pathway by implementing commercial security approaches and standards in lieu of government-unique compliance mechanisms.
 
@@ -52,21 +52,19 @@ FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP
     
 ## Interaction with FedRAMP
 The Applying Existing Frameworks CWG will be mediated by the following member of the FedRAMP PMO:
-- Elisha (Emu) Crow, `emu-gov`
+- Elisha (Emu) Crow, `@emu-gov`
 
 In addition, the following members of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:  
-- Michelle White, `audreamichellewhite`  
+- Michelle White, `@audreamichellewhite`  
 
-All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Mediator and FedRAMP advocates.
-Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review formal draft guidance or policies in place of public comment, or direct work on behalf of the government.
-FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from government representatives participating in the CWG: https://fedramp.gov/disclaimer
+All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Mediator and FedRAMP advocates. Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not manage or control the CWGs activities, nor will we use working groups to seek consensus advice, review formal draft guidance or policies in place of public comment, or direct work on behalf of the government. FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from government representatives participating in the CWG: [https://fedramp.gov/disclaimer](https://fedramp.gov/disclaimer)
 
 ## Transparency and Communication
 This working group will primarily operate on GitHub in the following repository and Discussion forum:
 - [Applying Existing Frameworks Repo](/)
 - [Applying Existing Frameworks Group Discussion](../../discussions)
 
-The community mediator will host a weekly hour-long town hall for mediated discussion, updates, and Q&A:
+The Community Mediator will host a weekly hour-long town hall for discussion, updates, and Q&A:
 - [Zoom signup link](https://gsa.zoomgov.com/meeting/register/t7WXSUz2SqK7Pdn8KXH8jQ#/registration)  
 
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:  
