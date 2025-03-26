@@ -22,7 +22,7 @@ Every FedRAMP CWG has the following primary objectives:
 
 In a world where FedRAMP is relying on automated attestations to the greatest extent possible, simplifying the documentation and management requirements will require us to think innovatively about how we leverage existing commercial frameworks. To the greatest extent possible, we want FedRAMP to rely on existing best practices and commercial security frameworks.
 
-Your focus in this working group will be to help us drive toward a world where agencies can easily understand how a company’s existing commercial security frameworks can be used to make risk-based decisions in lieu of creating new materials for FedRAMP. By examining leading industry security standards, the group will help cultivate knowledge of opportunities to leverage commercial frameworks that can address some or all of the federal cloud security requirements without creating redundant compliance processes. The group will help identify frameworks with proven effectiveness, assessing their potential for direct application through a rigorous analysis of scalability, cloud environment adaptability, implementation simplicity, vendor-neutral design, and economic efficiency of adoption. It will also seek to understand any gaps between these frameworks and FedRAMP requirements so that any additional tasks are focused only on those requirements not already met. 
+Your focus in this working group will be to help us drive toward a world where agencies can easily understand how a company’s existing commercial security frameworks can be used to make risk-based decisions in lieu of creating new materials for FedRAMP. By examining leading industry security standards, the group will help cultivate knowledge of opportunities to leverage commercial frameworks that can address some or all of the federal cloud security requirements without creating redundant compliance processes. The group will help identify frameworks with proven effectiveness, assessing their potential for direct application through a rigorous analysis of scalability, cloud environment adaptability, implementation simplicity, vendor-neutral design, and economic efficiency of adoption. It will also seek to understand any gaps between these frameworks and FedRAMP requirements so that any additional tasks are focused only on those requirements not already met.
 
 The ultimate goal is to streamline the authorization pathway by implementing commercial security approaches and standards in lieu of government-unique compliance mechanisms.
 
@@ -64,7 +64,7 @@ This working group will primarily operate on GitHub in the following repository 
 - [Applying Existing Frameworks Repo](/)
 - [Applying Existing Frameworks Group Discussion](../../discussions)
 
-The Community Mediator will host a weekly hour-long town hall for discussion, updates, and Q&A:
+The Community Mediator will host regular town halls for discussion, updates, and Q&A:
 - [Zoom signup link](https://gsa.zoomgov.com/meeting/register/GqCzMb0NTKCA-4tCyQysxg)  
 
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:  
@@ -79,4 +79,4 @@ Every two weeks, the Community Mediator will post a Summary of Activity to the C
 
   
 ## Changes to CWG Operations
-FedRAMP Community Working Groups are a new idea that will need to be continuously and incrementally improved. FedRAMP is committed to supporting CWGs throughout the development of FedRAMP 2025 and will make necessary adjustments.
+FedRAMP Community Working Groups are a new idea that will need to be continuously and incrementally improved. FedRAMP is committed to supporting CWGs throughout the development of FedRAMP 20x and will make necessary adjustments.
