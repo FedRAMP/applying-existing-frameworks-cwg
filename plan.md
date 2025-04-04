@@ -1,5 +1,7 @@
 # Applying Existing Frameworks Working Group Plan
 
+This is a test PR to see if CODEOWNERS works, I do not intend to merge it.
+
 ## Table of Contents 
 - [Background](#background)
 - [Applying Existing Frameworks](#applying-existing-frameworks)  
