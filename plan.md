@@ -65,7 +65,7 @@ This working group will primarily operate on GitHub in the following repository 
 - [Applying Existing Frameworks Group Discussion](../../discussions)
 
 The Community Mediator will host regular town halls for discussion, updates, and Q&A:
-- [Zoom signup link](https://gsa.zoomgov.com/meeting/register/GqCzMb0NTKCA-4tCyQysxg)  
+- [Zoom signup link](https://gsa.zoomgov.com/meeting/register/hoS2UdAiRROMyqPPlcbVfQ)  
 
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:  
 - [FedRAMP Youtube Channel](https://www.youtube.com/@FedRAMP)
