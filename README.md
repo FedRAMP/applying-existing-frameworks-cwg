@@ -9,6 +9,7 @@ The community manager will host a biweekly 30 minute town hall on Tuesdays at 1:
 
 Recordings for the town hall meetings can be found below. The links to the recordings may be posted a business day or two after the meeting occurred.
 
-| Meeting Date | Meeting Slide Deck | Zoom Recording Link | Zoom Recording Password | YouTube Link |
-| ------------: | :--------------------: | :--------------------: | :--------: | :--------------------: |
-| 8 April 2025 |  | [Zoom Recording Link](https://gsa.zoomgov.com/rec/share/zinmrlIYBw8zS7gv0c1cM9NoikjFNAqktkp5qy-BCKxI3LD0PH5vsAuEOJ0Hs_YV.RPmJOm6j_yfcb5pD) | `!iN4S42.` |  |
+| Meeting Date | Meeting Purpose | YouTube Link |
+| ------------: | :--------------------: | :--------------------: |
+| 8 April 2025 | Community Working Group Kick-off | [https://www.youtube.com/watch?v=933NDCtRcxg](https://www.youtube.com/watch?v=933NDCtRcxg) |
+| 22 April 2025 | Townhall #1 | [https://www.youtube.com/watch?v=Wo9R4cKScHk](https://www.youtube.com/watch?v=Wo9R4cKScHk) |
